@@ -1,7 +1,7 @@
 # Life satisfaction and GDP per capita
 ## Life satisfaction
 ### Source
-This dataset was obtained from the UCI Machine Learning Repository website at: **https://archive.ics.uci.edu/ml/datasets/wine+quality**
+This dataset was obtained from the UCI Machine Learning Repository website at: **[uci.edu/ml/datasets/wine+quality](https://archive.ics.uci.edu/ml/datasets/wine+quality)**
 
 ### Data description
 
