@@ -1,2 +1,2 @@
 # data
-Datasets for machine learning
+A collection of open datasets used for Machine Learning.
