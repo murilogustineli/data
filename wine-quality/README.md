@@ -47,6 +47,5 @@ Input variables (based on physicochemical tests):
 9. pH
 10. sulphates
 11. alcohol
-
-Output variable (based on sensory data):
+<br>Output variable (based on sensory data):
 12. quality (score between 0 and 10)
