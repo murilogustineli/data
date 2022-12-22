@@ -4,7 +4,7 @@
 This dataset was obtained from the UCI Machine Learning Repository website at: **https://archive.ics.uci.edu/ml/datasets/wine+quality**
 
 ### Data description
-
+#### Red Wine dataset
 	RangeIndex: 1599 entries, 0 to 1598
 	Data columns (total 12 columns):
 	 #   Column                Non-Null Count  Dtype  
@@ -23,6 +23,26 @@ This dataset was obtained from the UCI Machine Learning Repository website at: *
 	 11  quality               1599 non-null   int64  
 	dtypes: float64(11), int64(1)
 	memory usage: 150.0 KB
+
+#### White Wine dataset
+	RangeIndex: 4898 entries, 0 to 4897
+	Data columns (total 12 columns):
+	 #   Column                Non-Null Count  Dtype  
+	---  ------                --------------  -----  
+	 0   fixed_acidity         4898 non-null   float64
+	 1   volatile_acidity      4898 non-null   float64
+	 2   citric_acid           4898 non-null   float64
+	 3   residual_sugar        4898 non-null   float64
+	 4   chlorides             4898 non-null   float64
+	 5   free_sulfur_dioxide   4898 non-null   float64
+	 6   total_sulfur_dioxide  4898 non-null   float64
+	 7   density               4898 non-null   float64
+	 8   pH                    4898 non-null   float64
+	 9   sulphates             4898 non-null   float64
+	 10  alcohol               4898 non-null   float64
+	 11  quality               4898 non-null   int64  
+	dtypes: float64(11), int64(1)
+	memory usage: 459.3 KB
 
 ### Data Set Information:
 
