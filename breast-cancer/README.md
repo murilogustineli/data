@@ -49,7 +49,7 @@ The actual linear program used to obtain the separating plane in the 3-dimension
 
 1) ID number
 2) Diagnosis (M = malignant, B = benign)
-3-32)
+3) -> 32)
 
 Ten real-valued features are computed for each cell nucleus:
 
