@@ -49,7 +49,8 @@ The actual linear program used to obtain the separating plane in the 3-dimension
 
 1) ID number
 2) Diagnosis (M = malignant, B = benign)
-3) through 32) Ten real-valued features are computed for each cell nucleus:
+
+3rd through 32nd attribute. Ten real-valued features are computed for each cell nucleus:
 
 	a) radius (mean of distances from center to points on the perimeter)
 	b) texture (standard deviation of gray-scale values)
@@ -61,3 +62,4 @@ The actual linear program used to obtain the separating plane in the 3-dimension
 	h) concave points (number of concave portions of the contour)
 	i) symmetry 
 	j) fractal dimension ("coastline approximation" - 1)
+	
